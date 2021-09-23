@@ -1,0 +1,14 @@
+[
+    {
+        "animal":"Chinchilla",
+        "link":"https://en.wikipedia.org/wiki/Chinchilla"
+    },
+    {
+        "animal":"Fox",
+        "link":"https://en.wikipedia.org/wiki/Fox"
+    },
+    {
+        "animal":"Rabbit",
+        "link":"https://en.wikipedia.org/wiki/Rabbit"
+    }
+]
